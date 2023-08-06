@@ -32,3 +32,18 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+### Built With
+
+- [nextjs 13 docs] https://beta.nextjs.org/docs
+- [json-server] https://github.com/typicode/json-server
+- [tailwindcss] https://tailwindcss.com/docs/guides/nextjs
+- [daisy ui] https://daisyui.com/components/
+- [react-icons] https://react-icons.github.io/react-icons/
+- [uuid] https://github.com/uuidjs/uuid
+
+To start the json server:
+
+```bash
+npm run json-server
+```
